@@ -1,3 +1,9 @@
+---
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/tUSgH7G9Ig16DFOceZTv/
+---
+
 # 김포 스마트 시티
 
 ## 스마트 시티란?
@@ -52,7 +58,6 @@
 2. 전원 연결 시 미션 렘프 및 신호등이 잠시 깜빡입니다. 깜빡임이 끝나면 정상 작동 상태입니다.
 
 {% embed url="https://www.youtube.com/watch?v=0JGxthl75mU" %}
-{% endembed %}
 
 {% hint style="danger" %}
 **주의사항**
@@ -74,14 +79,12 @@
 스마트 시티는 전원을 연결하면, 스마트 시티의 리니어 벨트가 자동으로 초기 위치로 이동합니다. 이 과정은 약 1분정도 소요됩니다.
 
 {% embed url="https://www.youtube.com/watch?v=qVChE-Auwyw" %}
-{% endembed %}
 
 > (키오스크) 전원 연결시 앱 자동 실행
 
 키오스크의 전원을 연결하면, 자동으로 키오스크에서 앱이 자동으로 실행 됩니다.이 과정은 약 2분정도 소요됩니다.
 
 {% embed url="https://www.youtube.com/watch?v=oRhPqHK9rAo" %}
-{% endembed %}
 
 > 맵 색상 안내
 
@@ -122,8 +125,6 @@
 
 {% embed url="https://youtu.be/5Z8vdFcyWso" %}
 
-
-
 ## 모바일 로봇
 
 모바일 로봇은 사용자가 코딩한 명령에 따라 스마트 시티의 도로 위를 주행합니다.
@@ -158,6 +159,10 @@
 ### 모바일 로봇 방향
 
 모바일 로봇을 도로 위에 올려놓을 때, 반드시 <mark style="background-color:purple;">**카메라가 왼쪽을 향하도록**</mark> 똑바르게 놓아야 합니다.
+
+{% hint style="warning" %}
+타일 뒷면에 NFC와 자석이 있어서 왼쪽을 바라보고 정 중앙에 정확하게 인식 시켜야 모바일 로봇이 움직입니다.
+{% endhint %}
 
 > 올바른 방향
 
