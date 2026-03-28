@@ -51,8 +51,7 @@
 1. 리니어 벨트를 신호등 쪽으로 밀어놓습니다.
 2. 전원 연결 시 미션 렘프 및 신호등이 잠시 깜빡입니다. 깜빡임이 끝나면 정상 작동 상태입니다.
 
-{% embed url="https://youtu.be/0JGxthl75mU" %}
-리니어 벨트 초기 위치 세팅 방법
+{% embed url="https://www.youtube.com/watch?v=0JGxthl75mU" %}
 {% endembed %}
 
 {% hint style="danger" %}
@@ -74,13 +73,15 @@
 
 스마트 시티는 전원을 연결하면, 스마트 시티의 리니어 벨트가 자동으로 초기 위치로 이동합니다. 이 과정은 약 1분정도 소요됩니다.
 
-{% embed url="https://youtu.be/qVChE-Auwyw" %}
+{% embed url="https://www.youtube.com/watch?v=qVChE-Auwyw" %}
+{% endembed %}
 
 > (키오스크) 전원 연결시 앱 자동 실행
 
 키오스크의 전원을 연결하면, 자동으로 키오스크에서 앱이 자동으로 실행 됩니다.이 과정은 약 2분정도 소요됩니다.
 
-{% embed url="https://youtu.be/oRhPqHK9rAo" %}
+{% embed url="https://www.youtube.com/watch?v=oRhPqHK9rAo" %}
+{% endembed %}
 
 > 맵 색상 안내
 
