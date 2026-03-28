@@ -1,3 +1,9 @@
+---
+metaLinks:
+  alternates:
+    - https://app.gitbook.com/s/tUSgH7G9Ig16DFOceZTv/python-guide
+---
+
 # Python 코딩 가이드
 
 > 미션 코드 작성 안내서
@@ -342,7 +348,7 @@ mobile_robot.run_command(mobile_robot.charge_stop, "충전 종료 실패")
 
 #### `press_button_left()`
 
-로봇의 왼쪽 버튼을 누르고, 리니어 벨트를 동작시킵니다.
+로봇의 왼쪽 버튼을 누르고, 리니어 벨트를 왼쪽으로 동작시킵니다.
 
 **설정값:** 없음
 
@@ -354,7 +360,7 @@ mobile_robot.run_command(mobile_robot.press_button_left, "왼쪽 버튼 실패")
 
 #### `press_button_right()`
 
-로봇의 오른쪽 버튼을 누르고, 리니어 벨트를 동작시킵니다.
+로봇의 오른쪽 버튼을 누르고, 리니어 벨트를 오른쪽으로 동작시킵니다.
 
 **설정값:** 없음
 
