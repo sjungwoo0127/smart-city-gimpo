@@ -66,4 +66,4 @@
 
 ## 미션 성공 영상
 
-{% embed url="https://youtu.be/WZ9rX9awKrk" %}
+{% embed url="https://www.youtube.com/watch?v=WZ9rX9awKrk" %}

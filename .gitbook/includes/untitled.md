@@ -2,4 +2,4 @@
 title: Untitled
 ---
 
-{% embed url="https://youtu.be/oRhPqHK9rAo" %}
+{% embed url="https://www.youtube.com/watch?v=oRhPqHK9rAo" %}

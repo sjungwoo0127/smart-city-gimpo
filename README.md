@@ -123,7 +123,7 @@ metaLinks:
 
 <figure><img src=".gitbook/assets/scene_transition.png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://youtu.be/5Z8vdFcyWso" %}
+{% embed url="https://www.youtube.com/watch?v=5Z8vdFcyWso" %}
 
 ## 모바일 로봇
 
@@ -144,7 +144,7 @@ metaLinks:
 3. 깜빡거림이 끝나고 **빛이 켜지면** 와이파이 연결이 완료된 것입니다.
 4. 이후 AI카메라를 장착합니다.
 
-{% embed url="https://youtu.be/KOzdjurOQ8s" %}
+{% embed url="https://www.youtube.com/watch?v=KOzdjurOQ8s" %}
 
 ### AI 카메라 장착
 
